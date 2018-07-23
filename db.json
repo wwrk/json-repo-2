@@ -1,0 +1,98 @@
+{"quiz" : {
+    "quiz1" : {
+      "Question1" : {
+        "correctOption" : [
+            "option1",
+            "option3",
+            "option4"
+        ],
+        "options" : {
+          "option1" : "Java",
+          "option2" : "PHP",
+          "option3" : "Javascript",
+          "option4" : "IOS"
+        },
+        "question" : "React is a ____ library"
+      },
+      "Question2" : {
+        "correctOption" : [
+            "option4",
+        ],
+        "options" : {
+            "option1" : "XML",
+            "option2" : "YML",
+            "option3" : "HTML",
+            "option4" : "JSX"
+          },
+        "question" : "____ tag syntax is used in React"
+      },
+      "Question3" : {
+        "correctOption" : [
+            "option1",
+            "option2",
+            "option4"
+        ],
+        "options" : {
+            "option1" : "Single root DOM node",
+            "option2" : "Double root DOM node",
+            "option3" : "Multiple root DOM node",
+            "option4" : "None of the above"
+          },
+        "question" : "Application built with just React usually have ____"
+      },
+      "Question4" : {
+        "correctOption" : [
+            "option1",
+            "option2",
+            "option3",
+            "option4"
+        ],
+        "options" : {
+            "option1" : "mutable",
+            "option2" : "immutable",
+            "option3" : "variable",
+            "option4" : "none of the above"
+          },
+        "question" : "React elements are ____"
+      },
+      "Question5" : {
+        "correctOption" : [
+            "option1",
+            "option3"
+        ],
+        "options" : {
+            "option1" : "functions",
+            "option2" : "array",
+            "option3" : "components",
+            "option4" : "json data"
+          },
+        "question" : "React allows to split UI into independent and reusable pieses of ____"
+      },
+      "Question6" : {
+        "correctOption" : [
+            "option1",
+        ],
+        "options" : {
+            "option1" : "Single root DOM node",
+            "option2" : "Double root DOM node",
+            "option3" : "Multiple root DOM node",
+            "option4" : "None of the above"
+          },
+        "question" : "Application built with just React usually have ____"
+      },
+      "Question7" : {
+        "correctOption" : [
+            "option2",
+            "option3"
+        ],
+        "options" : {
+            "option1" : "XML",
+            "option2" : "YML",
+            "option3" : "HTML",
+            "option4" : "JSX"
+          },
+        "question" : "____ tag syntax is used in React"
+      }
+    }
+  }
+}
